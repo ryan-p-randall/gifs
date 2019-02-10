@@ -1,13 +1,12 @@
 ---
-- title: johnny-depp-disgust.gif
+- title: ewww.gif
   category: disgust
-  path: disgust/johnny-depp-disgust.gif
+  path: disgust/ewww.gif
   modified_time: 1548534030
   tags:
-  - depp
   - disgust
+  - ewww
   - gif
-  - johnny
 - title: solo-omg.gif
   category: omg
   path: omg/solo-omg.gif
@@ -2974,6 +2973,15 @@
   - gif
   - helmet
   - what
+- title: johnny-depp.gif
+  category: disgust
+  path: disgust/johnny-depp.gif
+  modified_time: 1548534030
+  tags:
+  - depp
+  - disgust
+  - gif
+  - johnny
 - title: judge-judy-computer-disgust.gif
   category: disgust
   path: disgust/judge-judy-computer-disgust.gif
@@ -3004,14 +3012,6 @@
   - space
   - uh
   - yeah
-- title: ewww-disgust.gif
-  category: disgust
-  path: disgust/ewww-disgust.gif
-  modified_time: 1548534030
-  tags:
-  - disgust
-  - ewww
-  - gif
 - title: horrified-hippie.gif
   category: disgust
   path: disgust/horrified-hippie.gif
